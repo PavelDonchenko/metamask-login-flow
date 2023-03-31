@@ -1,0 +1,7 @@
+
+GET http://localhost:8001/users/0x8361C7DDaBB22A8FA90d1D5F89793518be820574/nonce
+
+POST http://localhost:8001/register
+Content-Type: application/json
+
+ {"address": "0x8361C7DDaBB22A8FA90d1D5F89793518be820574"}
